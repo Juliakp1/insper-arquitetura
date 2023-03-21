@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "aula-09/loja/src/main/java/com/insper/loja"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
+}
